@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DevGary/Ready-Public/assets/5429970/c2c0564f-04db-451d-b41f-3ceae8449822" width="8%" height="8%">
+  <img src="https://github.com/DevGary/Ready-Public/assets/5429970/c2c0564f-04db-451d-b41f-3ceae8449822" width="12%" height="12%">
   <h1> Ready For Reddit </h1>
 </div>
 <p align="center">
